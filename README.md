@@ -1,5 +1,3 @@
-# space-orbiter-cybersecurity-ai
-Cybersecurity for Space Orbiters
 # Space Orbiter Cybersecurity AI
 
 This repository contains practical code examples demonstrating the use of Artificial Intelligence (AI) techniques—Computer Vision, Deep Learning, and Reinforcement Learning—for cybersecurity applications in space orbiters.
